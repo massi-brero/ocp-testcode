@@ -1,3 +1,5 @@
+package constructs;
+
 public class SwitchTests {
     public static void main(String[] args) {
         int i = 10;
